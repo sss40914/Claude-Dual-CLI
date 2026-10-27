@@ -1,0 +1,7 @@
+{
+    "name": "Claude (secondary)",
+    "commandline": "powershell.exe -NoLogo -NoExit -Command \"$env:CLAUDE_CONFIG_DIR = \\\"$env:USERPROFILE\\.claude-secondary\\\"; claude\"",
+    "startingDirectory": "C:\\path\\to\\your\\project",
+    "tabTitle": "Claude [secondary]",
+    "suppressApplicationTitle": true
+}

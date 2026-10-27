@@ -1,0 +1,7 @@
+# Claude Code profile folders hold sign-in data. Never commit them.
+.claude*/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
